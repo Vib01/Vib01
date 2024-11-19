@@ -12,7 +12,7 @@ Welcome to my digital realm! I am **Vibhu Sharma**, a data scientist and machine
 ## 🔮 My Arsenal  
 > In a world of chaos, data is my order. Here are the tools and tech I wield to craft futuristic solutions:  
 
-- **Programming**: Python,Jupyter notepad, R-programming
+- **Programming**: Python,Jupyter notepad, R-programming,SQL
 - **Tech Specialties**: Machine Learning, Data Visualization, Predictive Modeling, Regression Models, Data analysis.
 - **Hobbies**: E-commerce solutions,Learning French
 
