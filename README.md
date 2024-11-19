@@ -30,7 +30,7 @@ Welcome to my digital realm! I am **Vibhu Sharma**, a data scientist and machine
 ![Cyberpunk Footer](https://github.com/user-attachments/assets/3ff931a8-a66f-4da5-9544-377cb652b967)
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <!---
